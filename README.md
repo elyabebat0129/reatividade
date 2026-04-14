@@ -36,3 +36,63 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+# Vue Reactivity Demo
+
+This project was developed as part of a learning process, following guided instructions from a course to understand Vue 3 reactivity concepts.
+
+The goal is to practice how reactive state works in Vue and how it affects UI updates.
+
+---
+
+## Purpose
+
+This project focuses on learning and demonstrating core reactivity features of Vue 3, such as:
+
+* Reactive state management
+* Derived data using computed properties
+* Component lifecycle basics
+
+---
+
+## Tech Stack
+
+* Vue 3
+* JavaScript
+* Vite
+
+---
+
+## What I Practiced
+
+* Using `ref` to manage reactive state
+* Using `computed` for derived values
+* Understanding how Vue updates the DOM automatically
+* Structuring simple reactive components
+* Following guided instructions to reinforce core concepts
+
+---
+
+## Project Structure
+
+```
+src/
+├── components/
+├── App.vue
+└── main.js
+```
+
+---
+
+## Notes
+
+This project was built for learning purposes and follows guided instructions from a course.
+It is intended to reinforce understanding of Vue reactivity rather than to serve as a production-ready application.
+
+---
+
+## Disclaimer
+
+This project was developed based on course instructions and is intended for educational use only.
+
